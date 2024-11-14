@@ -5,7 +5,7 @@ It is written in python and made as an executable with pyinstaller for better us
 Executable is uploaded to virustotal [(here)](https://www.virustotal.com/gui/file/5dc5d490413ce0031ce429f65a6b9302331f74a97714f3bcf1b2a96647fbdca0) and got some false positives with a detection score of 4/73.  
 <br/>
 *This is my first project published on github. Excuse any mistakes I may have done. I will be more than happy if you could point them out in order for me to improve.*
-# Usage with release version
+## Usage with release version
 - Download the [latest release](https://github.com/0xR1SKY/Linkvertise-Bypass/releases/download/v0.0.1/Linkvertise.Bypass.v0.0.1.exe).
 
 - Launch `Linkvertise.Bypass.v0.0.1.exe`.
@@ -14,7 +14,7 @@ Executable is uploaded to virustotal [(here)](https://www.virustotal.com/gui/fil
 
 - Get the bypassed link.
 
-# Usage with command promt (**Required Python installed**)
+## Usage with command promt (**Required Python installed**)
 - Launch **cmd**
 - Install *requests* library ([pip](https://pypi.org/project/pip/) is required to continue with this guide).  
   `pip install requests`  

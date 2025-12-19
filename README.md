@@ -1,4 +1,4 @@
-# General info on this project
+# General info on this project | NOT WORKING ANYMORE
 This is a simple **linkvertise bypass** using the free API provided by [bypass.vip](https://bypass.vip/)  
 It is written in python and made as an executable with pyinstaller for better usability. 
 <br/><br/><br/>
